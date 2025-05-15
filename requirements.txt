@@ -1,0 +1,9 @@
+transformers
+torch
+flask
+flask-cors
+streamlit
+profanity-check
+requests
+datasets
+gunicorn
